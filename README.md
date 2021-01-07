@@ -4,7 +4,7 @@ Welcome to my profile! I am a young aspiring homebrew developer for the Wii. Not
 
 ## Current Projects
 
-IPL Plus - A replacement for the Wii's IPL. Currently, the project is in the Pre-Alpha stage.
+[IPL Plus](http://www.github.com/voksius/ipl-plus) - A replacement for the Wii's IPL. Currently, the project is in the Pre-Alpha stage.
 
 <!--
 **Voksius/Voksius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
