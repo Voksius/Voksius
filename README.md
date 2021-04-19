@@ -4,7 +4,7 @@ Welcome to my profile! I am a young aspiring homebrew developer for the Wii. Not
 
 ## Current Projects
 
-None at the moment.
+GeoBrowser
 
 <!--
 **Voksius/Voksius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
