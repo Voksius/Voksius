@@ -1,6 +1,6 @@
 # Hi there!
 
-Welcome to my profile! I am a young aspiring homebrew developer for the Wii. Not much else to say really lol.
+Welcome to my profile! I am a Geometry Dash player who is learning how to make utilities for the game.
 
 ## Current Projects
 
